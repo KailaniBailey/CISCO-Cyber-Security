@@ -1,3 +1,3 @@
-# CISCO Cyber Security
+# CISCO Cybersecurity
 ## Table of Contents
-- Introduction to Cyber Security
+- Introduction to Cybersecurity
