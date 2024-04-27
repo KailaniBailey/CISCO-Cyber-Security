@@ -6,5 +6,5 @@
 2. [Attacks, Concepts, and Techniques](https://github.com/KailaniBailey/CISCO-Cyber-Security/blob/main/Introduction-to-Cyber-Security/2.%20Attacks,%20Concepts%20and%20Techniques/README.md)
 3. [Protecting Your Data & Privacy](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Introduction-to-Cyber-Security/3.%20Protecting%20Your%20Data%20and%20Privacy)
 4. [Protecting the Organization](https://github.com/KailaniBailey/CISCO-Cyber-Security/blob/main/Introduction-to-Cyber-Security/4.%20Protecting%20the%20Organization/README.md)
-5. Will Your Future Be in Cybersecurity?
+5. [Will Your Future Be in Cybersecurity?](https://github.com/KailaniBailey/CISCO-Cybersecurity/tree/main/Introduction-to-Cyber-Security/5.%20Will%20Your%20Future%20Be%20in%20Cybersecurity%3F)
 6. Introduction to Cybersecurity: Course Final Exam
