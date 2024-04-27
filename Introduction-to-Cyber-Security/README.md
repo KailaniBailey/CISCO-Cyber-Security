@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Introduction to Cyber Security](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Introduction-to-Cyber-Security/1.%20Introduction-to-Cyber-Security)
 2. [Attacks, Concepts, and Techniques](https://github.com/KailaniBailey/CISCO-Cyber-Security/blob/main/Introduction-to-Cyber-Security/2.%20Attacks,%20Concepts%20and%20Techniques/README.md)
-3. Protecting Your Data & Privacy
+3. [Protecting Your Data & Privacy](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Introduction-to-Cyber-Security/3.%20Protecting%20Your%20Data%20and%20Privacy)
 4. Protecting the Organization
 5. Will Your Future Be in Cyber Security?
 6. Introduction to Cyber Security: Course Final Exam
