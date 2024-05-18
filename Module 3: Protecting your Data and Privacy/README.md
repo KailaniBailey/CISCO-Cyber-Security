@@ -24,5 +24,16 @@
 - 3.3.6 Before You Sign Up
 - 3.3.7 Protect Your Data
 ## 3.4 Safeguarding Your Online Privacy
+- 3.4.1 Two Factor Authentication
+- 3.4.2 Open Authorization
+- 3.4.3 Social Sharing
+- 3.4.4 Don't Get Spoofed
+- 3.4.5 Email and Web Browser Privacy
 ## 3.5 Discover Your Own Risky Online Behavior
+- 3.5.1 Scenario 1
+- 3.5.2 Scenario 2
+- 3.5.3 Scenario 3
+- 3.5.4 Scenario 4
+- 3.5.5 Scenario 5
+- 3.5.6 Scenario 6
 ## 3.6 Quiz
