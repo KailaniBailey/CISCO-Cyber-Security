@@ -4,8 +4,8 @@
 ## My Knowledge Check
 ## Table of Contents
 - Module 1: [Introduction to Cybersecurity](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201%3A%20Introduction%20to%20Cybersecurity)
-- Module 2: Attacks, Concepts and Techniques
-- Module 3: Protecting your Data and Privacy
-- Module 4: Protecting the Organization
-- Module 5: Will Your Future Be in Cybersecurity?
-- Introduction to Cybersecurity: Course Final Exam
+- Module 2: [Attacks, Concepts and Techniques](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%202%3A%20Attacks%2C%20Concepts%20and%20Techniques)
+- Module 3: [Protecting your Data and Privacy](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%203%3A%20Protecting%20your%20Data%20and%20Privacy)
+- Module 4: [Protecting the Organization](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%204%3A%20Protecting%20the%20Organization)
+- Module 5: [Will Your Future Be in Cybersecurity?](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%205%3A%20Will%20Your%20Future%20Be%20in%20Cybersecurity%3F)
+- [Introduction to Cybersecurity: Course Final Exam](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Introduction%20to%20Cybersecurity%3A%20Course%20Final%20Exam)
