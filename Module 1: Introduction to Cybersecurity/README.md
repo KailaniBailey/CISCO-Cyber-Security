@@ -5,7 +5,7 @@
 - 1.1.3 [Your Online Identity](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201%3A%20Introduction%20to%20Cybersecurity/1.1.3%20Your%20Online%20Identity)
 - 1.1.4 [Your Data](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.4%20Your%20Data)
 - 1.1.5 [Where is Your Data?](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.5%20Where%20is%20Your%20Data%3F)
-- 1.1.6 What's More...
+- 1.1.6 [What's More...](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.6%20What's%20More...)
 - 1.1.7 Smart Devices
 - 1.1.8 What Do Hackers Want?
 - 1.1.9 Identity Theft
