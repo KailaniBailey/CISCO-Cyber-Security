@@ -11,7 +11,7 @@
 - 1.1.9 [Identity Theft](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.9%20Identity%20Theft)
 - 1.1.10 [Who Else Wants My Data?](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.10%20Who%20Else%20Wants%20My%20Data%3F)
 ## 1.2 Organizational Data
-- 1.2.1 Types of Organizational Data
+- 1.2.1 [Types of Organizational Data](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201:%20Introduction%20to%20Cybersecurity/1.2.1%20Types%20of%20Organizational%20Data)
 - 1.2.2 The Cube
 - 1.2.3 What Do You Think?
 - 1.2.4 Is This For Real?
