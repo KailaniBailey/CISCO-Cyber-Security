@@ -7,7 +7,7 @@
 - 1.1.5 [Where is Your Data?](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.5%20Where%20is%20Your%20Data%3F)
 - 1.1.6 [What's More...](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.6%20What's%20More...)
 - 1.1.7 [Smart Devices](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.7%20Smart%20Devices)
-- 1.1.8 What Do Hackers Want?
+- 1.1.8 [What Do Hackers Want?](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.8%20What%20Do%20Hackers%20Want%3F)
 - 1.1.9 Identity Theft
 - 1.1.10 Who Else Wants My Data?
 ## 1.2 Organizational Data
