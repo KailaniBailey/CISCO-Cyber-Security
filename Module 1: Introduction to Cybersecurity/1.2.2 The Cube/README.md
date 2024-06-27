@@ -30,5 +30,9 @@ The **McCumber Cube** is a model framework created by John McCumber in 1991 to h
 
 **Transmission** refers to data traveling between information systems (data *in transit*).
 
-# The Security Measures Used to Protect Data
+## The Security Measures Used to Protect Data
 **Awareness, training and education** are the measures put in place by an organization to ensure that users are knowledgeable about potential security threats and the actions they can take to protect information systems.
+
+**Technology** refers to the software and hardware-based solutions designed to protect information systems such as firewalls, which continuously monitor your network in search of possible malicious incidents.
+
+**Policy and procedure** refers to the administrative controls that provide a foundation for how an organization implements information assurance, such as incident response plans and best practice guidelines.
