@@ -3,7 +3,7 @@
 - 1.1.1 [What is Cybersecurity?](https://github.com/KailaniBailey/CISCO-Cyber-Security/blob/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.1%20What%20is%20Cybersecurity%3F/README.md)
 - 1.1.2 [Protecting Your Personal Data](https://github.com/KailaniBailey/CISCO-Cyber-Security/blob/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.2%20Protecting%20Your%20Personal%20Data/README.md)
 - 1.1.3 [Your Online Identity](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201%3A%20Introduction%20to%20Cybersecurity/1.1.3%20Your%20Online%20Identity)
-- 1.1.4 Your Data
+- 1.1.4 [Your Data](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201:%20Introduction%20to%20Cybersecurity/1.1.4%20Your%20Data)
 - 1.1.5 Where is Your Data?
 - 1.1.6 What's More...
 - 1.1.7 Smart Devices
