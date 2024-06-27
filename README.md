@@ -2,6 +2,7 @@
 # CISCO Introduction to Cybersecurity
 > "This introductory course takes you inside the world of cybersecurity. You will learn cybersecurity basics to protect your personal digital life and gain insights into the biggest security challenges companies, governments, and educational institutions face today. Cybersecurity professionals who can protect and defend an organization’s network are in high demand."
 ## My Knowledge Check
+![cisco](https://github.com/KailaniBailey/CISCO-Cyber-Security/assets/158431578/46d7a9e7-8f17-424a-a80d-13a267fa5e9d)
 ## Table of Contents
 - Module 1: [Introduction to Cybersecurity](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%201%3A%20Introduction%20to%20Cybersecurity)
 - Module 2: [Attacks, Concepts and Techniques](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main/Module%202%3A%20Attacks%2C%20Concepts%20and%20Techniques)
